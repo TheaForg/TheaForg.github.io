@@ -14,16 +14,16 @@
    * but need not be stored in the saveGame.
    */
   let settings = {
-      displayStockDelta: true,
-      saveStockMarketHistory: true,
-      tallyOnlyStockMarketProfits: true,
+      displayStockDelta: false,
+      saveStockMarketHistory: false,
+      tallyOnlyStockMarketProfits: false,
       awardAchievementsAcrossAscensions: false,
       extraAchievementsAcrossAscensions: false,
       extraStockMarketAchievements: false,
       numericallyStableHeavenlyChipGains: false,
-      autohideSeasonalBiscuitsTooltip: true,
-      patchDiscrepancy: false,
-      warnLessThan100Lumps: true,
+      autohideSeasonalBiscuitsTooltip: false,
+      patchDiscrepancy: true,
+      warnLessThan100Lumps: false,
       patchPantheonSwaps: false,
       achievementsForBackingUp: false,
       patchSugarFrenzyPersistence: false,
