@@ -1,1 +1,1 @@
-Game.LoadMod('https://github.com/TheaForg/SpicedCookiesConfig/blob/dist/main.js');
+Game.LoadMod('https://theaforg.github.io/main.js');
