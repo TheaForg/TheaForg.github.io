@@ -23,7 +23,7 @@
       numericallyStableHeavenlyChipGains: false,
       autohideSeasonalBiscuitsTooltip: false,
       patchDiscrepancy: true,
-      warnLessThan100Lumps: false,
+      warnLessThan100Lumps: true,
       patchPantheonSwaps: false,
       achievementsForBackingUp: false,
       patchSugarFrenzyPersistence: false,
